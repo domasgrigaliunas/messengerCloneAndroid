@@ -10,4 +10,9 @@
         android:title="Sign Out"
         app:showAsAction="ifRoom"/>
 
+    <item android:id="@+id/menu_daynight_mode"
+        android:title="Day/Night"
+        app:showAsAction="ifRoom"/>
+
+
 </menu>
