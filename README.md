@@ -1,4 +1,4 @@
-# Messenger Clone 💬
+# Messenger Clone 💬 1.0
 
 ### A real time messaging application that re-creates Facebook Messenger core functionalities.
 
