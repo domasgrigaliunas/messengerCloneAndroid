@@ -1,4 +1,4 @@
-# Messenger Clone
+# Messenger Clone 💬
 
 ### A real time messaging application that replicates Facebook Messenger core functionalities.
 
@@ -40,4 +40,7 @@ Implemented extra: day/night mode
 
 ![day-night.gif](/readme-visuals/day-night.gif)
 
+### Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
