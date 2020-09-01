@@ -1,6 +1,6 @@
 # Messenger Clone 💬
 
-### A real time messaging application that replicates Facebook Messenger core functionalities.
+### A real time messaging application that re-creates Facebook Messenger core functionalities.
 
 ### Built With 
 * Kotlin language,
